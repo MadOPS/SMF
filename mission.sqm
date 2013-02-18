@@ -1,0 +1,113 @@
+version=11;
+class Mission
+{
+	addOns[]=
+	{
+		"takistan"
+	};
+	addOnsAuto[]=
+	{
+		"takistan"
+	};
+	randomSeed=11279376;
+	class Intel
+	{
+		startWeather=0.40000001;
+		forecastWeather=0.40000001;
+		year=2009;
+		day=28;
+		hour=16;
+		minute=20;
+	};
+	class Markers
+	{
+		items=4;
+		class Item0
+		{
+			position[]={1697.2283,358.88245,-745.46356};
+			name="respawn_west";
+			type="Empty";
+		};
+		class Item1
+		{
+			position[]={2216.6543,363.5629,-767.38739};
+			name="respawn_east";
+			type="Empty";
+		};
+		class Item2
+		{
+			position[]={1675.2809,357.7594,-1132.811};
+			name="respawn_gurellia";
+			type="Empty";
+		};
+		class Item3
+		{
+			position[]={2253.2339,370.84052,-1103.5782};
+			name="respawn_civilian";
+			type="Empty";
+		};
+	};
+};
+class Intro
+{
+	addOns[]=
+	{
+		"takistan"
+	};
+	addOnsAuto[]=
+	{
+		"takistan"
+	};
+	randomSeed=6431198;
+	class Intel
+	{
+		startWeather=0.40000001;
+		forecastWeather=0.40000001;
+		year=2009;
+		day=28;
+		hour=16;
+		minute=20;
+	};
+};
+class OutroWin
+{
+	addOns[]=
+	{
+		"takistan"
+	};
+	addOnsAuto[]=
+	{
+		"takistan"
+	};
+	randomSeed=10178583;
+	class Intel
+	{
+		startWeather=0.40000001;
+		forecastWeather=0.40000001;
+		year=2009;
+		day=28;
+		hour=16;
+		minute=20;
+	};
+};
+class OutroLoose
+{
+	addOns[]=
+	{
+		"takistan"
+	};
+	addOnsAuto[]=
+	{
+		"takistan"
+	};
+	randomSeed=13438065;
+	class Intel
+	{
+		startWeather=0.40000001;
+		forecastWeather=0.40000001;
+		year=2009;
+		day=28;
+		hour=16;
+		minute=20;
+	};
+};

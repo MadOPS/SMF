@@ -1,0 +1,1 @@
+[_this select 0, false] execVM "bScripts\spectate\spectateMode.sqf";

@@ -1,0 +1,23 @@
+FIX DIALOGS 
+
+ADD RESPAWN
+
+LOADOUTS
+
+ACE/ACRE Loadouts 
+
+Briefing Template 
+
+Respawn Options
+
+MP Parameters Options 
+
+Debug Options 
+
+3rd person / ACE Scripts 
+
+Crew Check >USE FSM<
+
+RETRANS >FSM<
+
+Loadouts manual vs script
